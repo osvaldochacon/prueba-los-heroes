@@ -19,3 +19,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
+*Se sube proyecto nuevamente, ya que detecte un par de archivos corruptos
